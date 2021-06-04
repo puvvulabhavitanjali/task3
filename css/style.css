@@ -1,0 +1,65 @@
+.maindiv
+{
+    display: flex;
+    flex-wrap: wrap;
+    width: 100%;
+    box-shadow: 8px 8px 8px 8px rgb(0, 0, 0);
+    border: 3px solid rgb(255, 255, 255); 
+    margin: auto;
+
+}
+.leftdiv
+{
+    align-content: center;
+    text-align: center;
+    width: 20%;
+    padding: 1%;
+    margin: 1%;
+    box-shadow: 8px 8px 8px 8px rgb(237, 240, 243); 
+    border: 3px solid #ddd;
+}
+.rightdiv
+{
+    /* align-content: center; */
+    width: 70%;
+    padding: 1%;
+    margin: 1%;
+    /* box-shadow: 8px 8px 8px 8px rgb(237, 240, 243); */
+    /* border: 3px solid #ddd; */
+}
+img{
+    width: 92%;
+    padding: 1%;
+    margin: 1%;
+}
+.image{
+    /* width: 25%; */
+    padding: 1%;
+    margin: 1%;
+}
+
+span{
+   border-radius: 10px;
+   border:  1px solid #5d5d5d;
+   background: #ddd;
+   padding: 1%;
+   text-align: center;
+   margin: 5%; 
+}
+.tdiv
+{
+    width: 100%;
+    padding: 1%;
+    margin: 1%;
+    box-shadow: 8px 8px 8px 8px #ddd ;
+    border: 3px solid #ddd;
+
+}
+h4{
+    border-radius: 10px;
+   border:  1px solid #5d5d5d;
+   background: #ddd;
+   padding: 1%;
+   text-align: center;
+   margin: 5%; 
+}

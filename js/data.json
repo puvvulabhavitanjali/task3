@@ -1,0 +1,48 @@
+{
+ "data": {
+   "image":"images/anjali.jpeg",
+   "name": "PUVVULA BHAVITANJALI",
+   "mail":"anjalianju6629@gmail.com",
+   "PhoneNumber":"9573320908",
+   "address":"kanakaraju street,balaji buildings,vijayawada-11"
+ },
+  
+ "ssc": [
+  {
+    "object":"To secure a challenging position where I can effectively contribute my skills in that particular job, possessing competent Technical skills."
+    
+   } ,
+  {
+  "Degree":"  MCA",
+  "institution": "velagapudi ramakrishna siddhartha engineering college",
+  "yearofpassing": "2022",
+  "marks" : "8.7"
+  
+ },
+ {
+  "Degree":"  BSC",
+  "institution": "LOYALO DEGREE COLLEGE",
+  "yearofpassing": "2019",
+  "marks" : "64.5"
+ 
+ },
+ {
+  "Degree":"  MPC",
+  "institution": "NRI COLLEGE",
+  "yearofpassing": "2016",
+  "marks" : "76.0"
+ 
+ },
+ {
+  "Degree":" SSC",
+  "institution": "SIDDHARTHA ENGLISH MEDIUM SCHOOL",
+  "yearofpassing": "2014",
+  "marks" : "8.0"
+ 
+ }
+ ],
+ "Skills":
+ { 
+"FrontEnd":["HTML"," CSS"," BOOT STARP"],
+"BackEnd":["C"," JAVA"," JAVASCRIPT"," PYTHON"]}
+}
